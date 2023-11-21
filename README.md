@@ -4,16 +4,20 @@
 
 
 
-
-Hi po mga Idol 
-Animes I watch
-1. Demon Slayer
-2. Attack On Titan
-3.  Jujutsu Kaisen
+Good Day! My name is Arwynne Jose F. Vasquez and I will be sharing my interests
 
 
+I am extremely interested and prolific in the aquarium keeping hobby, I actually keep a 50 gallon tank myself 
 
-~~There is nothing we can do~~ 
+50 gallon Tech
+1. 80-100 cm HEPO Light
+2. SunSun 303B Canister Filter
 
-
-![Sir King is Best](https://media.licdn.com/dms/image/C5603AQGu67eLQzHEhg/profile-displayphoto-shrink_800_800/0/1648992377801?e=2147483647&v=beta&t=gxu3YjwLalZirinQiiaHeNE0xSegcEB0xOXBfoH8KaM)
+Products
+1. Aquacare Water Conditioner
+2. APT 3 Fertilizer
+3. All In Green Fertilizer
+4. API Water Quality Test Kit
+5. Aquarium Tools
+6. Seachem Stability
+7. 
