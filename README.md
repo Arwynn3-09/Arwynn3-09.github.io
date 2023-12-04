@@ -23,9 +23,8 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 
 ![download (1)](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/86eaf537-d5b4-4a5d-afcb-9fd70b514474)
 
-### Products
-1. Aquacare Water Conditioner
-2. APT 3 Fertilizer
+### Products 🪄
+
 
 
 
@@ -34,7 +33,7 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 
 
 
-3. All In Green Fertilizer
+
 
 
 
@@ -43,16 +42,17 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 
 
 
-4. API Water Quality Test Kit
+
 
 
 
 ![download (6)](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/d924b7fe-d527-410f-a6c1-5b227cf60a03)
 
 
-
-
-
+1. Aquacare Water Conditioner
+2. APT 3 Fertilizer
+3. All In Green Fertilizer
+4. API Water Quality Test Kit
 5. Aquarium Tools
 6. Seachem Stability
 7. Magnetic Algae Cleaner
