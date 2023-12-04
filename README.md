@@ -7,7 +7,7 @@
 Good Day! My name is Arwynne Jose F. Vasquez and I will be sharing my interests/hobbies
 
 
-I am a newbie aquarium keeper, or an aquarist. A term use to call people who take care of aquariums. I own a 50 gallon tank, so here are the specifics
+I am a newbie aquarium keeper, or an aquarist. A term used to call people who take care of aquariums. I own a 50 gallon tank, so here are the specifics.
 
 50 gallon Tech
 1. 80-100 cm HEPO Light
@@ -57,18 +57,18 @@ I am a newbie aquarium keeper, or an aquarist. A term use to call people who tak
 9. Towels
 10. Airline Hose
 
-Plnat inhabitants
+Plantt inhabitants
 1. Anubias Nana Golden
 2. Anubias Toffeefolia
 3. Java Fen and Java moss
-5. Water LEttuce
+5. Water Lettuce
 6. Frogit
 7. Red Root Floaters
 8. Salvinia
-9. Vallinseria
+9. Vallisneria
 
 My fish stocing
-1. 1 Powder Blue Dwarg Gourami
+1. 1 Powder Blue Dwarf Gourami
 2. 6 Neon Tetras
 3. 1 Mystery Snail
 4. 10 Panda Corydoras
