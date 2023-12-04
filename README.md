@@ -28,6 +28,7 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 2. APT 3 Fertilizer
 
 
+
 ![download (2)](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/636d0961-1bcd-4192-8dc6-6d2f47e94881)
 
 
@@ -40,11 +41,15 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 ![download (3)](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/a4700dec-246b-4580-b11b-1e5618c95871)
 
 
+
+
 4. API Water Quality Test Kit
 
 
 
 ![download (6)](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/d924b7fe-d527-410f-a6c1-5b227cf60a03)
+
+
 
 
 
@@ -55,7 +60,7 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 9. Towels
 10. Airline Hose
 
-Plant inhabitants
+Plant inhabitants 🌱
 1. Anubias Nana Golden
 2. Anubias Toffeefolia
 3. Java Fern and Java moss
@@ -65,8 +70,8 @@ Plant inhabitants
 7. Salvinia
 8. Vallisneria
 
-My fish stocking
-1. 1 Powder Blue Dwarf Gourami
+My fish stocking 🐟
+1. 1 Powdered Blue Dwarf Gourami
 2. 6 Neon Tetras
 3. 1 Mystery Snail
 4. 10 Panda Corydoras
