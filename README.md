@@ -40,7 +40,7 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 ![download (3)](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/a4700dec-246b-4580-b11b-1e5618c95871)
 
 
-4. API Water Quality Test Kit!
+4. API Water Quality Test Kit
 
 
 
@@ -57,17 +57,17 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 9. Towels
 10. Airline Hose
 
-Plantt inhabitants
+Plant inhabitants
 1. Anubias Nana Golden
 2. Anubias Toffeefolia
-3. Java Fen and Java moss
-5. Water Lettuce
-6. Frogit
-7. Red Root Floaters
-8. Salvinia
-9. Vallisneria
+3. Java Fern and Java moss
+4. Water Lettuce
+5. Frogit
+6. Red Root Floaters
+7. Salvinia
+8. Vallisneria
 
-My fish stocing
+My fish stocking
 1. 1 Powder Blue Dwarf Gourami
 2. 6 Neon Tetras
 3. 1 Mystery Snail
