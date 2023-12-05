@@ -23,7 +23,7 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 
 ![download (1)](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/86eaf537-d5b4-4a5d-afcb-9fd70b514474)
 
-### Products I use 🪄
+### Products I use ✨
 
 
 
