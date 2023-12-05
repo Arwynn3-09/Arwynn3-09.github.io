@@ -9,15 +9,15 @@ Good Day! My name is Arwynne Jose F. Vasquez and I will be sharing my 50 gallon 
 
 I am a newbie aquarium keeper, or an aquarist. A term used to call people who take care of aquariums. Here are the specifics for my tank!
 
-50 gallon Tech
-1. 80-100 cm HEPO Light
+50 gallon Tech present
+- 80-100 cm HEPO Light
 
 
 
 ![download](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/0438b0ad-2f7e-4b39-a2b5-77db93d8a133)
 
 
-2. SunSun 303B Canister Filter
+- SunSun 303B Canister Filter
 
 
 
