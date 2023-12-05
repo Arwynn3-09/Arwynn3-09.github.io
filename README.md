@@ -9,7 +9,7 @@ Good Day! My name is Arwynne Jose F. Vasquez and I will be sharing my 50 gallon 
 
 I am a newbie aquarium keeper, or an aquarist. A term used to call people who take care of aquariums. Here are the specifics for my tank!
 
-50 gallon Tech present
+### 50 gallon Tech present
 - 80-100 cm HEPO Light
 
 
@@ -60,7 +60,7 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 9. Towels
 10. Airline Hose
 
-Plant inhabitants 🌱
+### Plant inhabitants 🌱
 1. Anubias Nana Golden
 2. Anubias Toffeefolia
 3. Java Fern and Java moss
@@ -70,13 +70,13 @@ Plant inhabitants 🌱
 7. Salvinia
 8. Vallisneria
 
-My fish stocking 🐟
+### My fish stocking 🐟
 1. 1 Powdered Blue Dwarf Gourami
 2. 6 Neon Tetras
 3. 1 Mystery Snail
 4. 10 Panda Corydoras
 
-A picture of my tank:
+### A picture of my tank:
 
 
 
@@ -87,7 +87,7 @@ A picture of my tank:
 
 
 
-Experience:
+### Experience:
 
 At first, it can be very stressful to maintain an aquarium. You have to do things such as cycle the tank (Growing beneficial bacteria), copying the original inhabitants of the tank's enviroment, making sure that the ammonia (poop chemical) does not spike, and so on.
 But, when you get the hang of it, it become easier the longer you go from that point. So now, I can sit back, drink a cup of coffee and marvel at my aquarium
