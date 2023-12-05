@@ -4,10 +4,10 @@
 
 
 
-Good Day! My name is Arwynne Jose F. Vasquez and I will be sharing my interests/hobbies
+Good Day! My name is Arwynne Jose F. Vasquez and I will be sharing my 50 gallon aquarium tank
 
 
-I am a newbie aquarium keeper, or an aquarist. A term used to call people who take care of aquariums. I own a 50 gallon tank, so here are the specifics.
+I am a newbie aquarium keeper, or an aquarist. A term used to call people who take care of aquariums. Here are the specifics for my tank!
 
 50 gallon Tech
 1. 80-100 cm HEPO Light
@@ -23,7 +23,7 @@ I am a newbie aquarium keeper, or an aquarist. A term used to call people who ta
 
 ![download (1)](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/86eaf537-d5b4-4a5d-afcb-9fd70b514474)
 
-### Products 🪄
+### Products I use 🪄
 
 
 
@@ -81,6 +81,17 @@ A picture of my tank:
 
 
 ![368028928_327341193565195_1316238760500994433_n](https://github.com/Arwynn3-09/Arwynn3-09.github.io/assets/151606264/9871f8ab-0886-4f46-98e4-aa2e6688db2c)
+
+
+
+
+
+
+Experience:
+
+At first, it can be very stressful to maintain an aquarium. You have to do things such as cycle the tank (Growing beneficial bacteria), copying the original inhabitants of the tank's enviroment, making sure that the ammonia (poop chemical) does not spike, and so on.
+But, when you get the hang of it, it become easier the longer you go from that point. So now, I can sit back, drink a cup of coffee and marvel at my aquarium
+
 
 
 
